@@ -1,0 +1,10 @@
+URL = "http://192.168.1.10/api"
+TOKEN = "<your user token>"
+from =  "2023-08-11T00:00:00Z"
+to = "2023-08-12T00:00:00Z"
+device = 3
+
+[gpx]
+title = "Your trip name"
+author = "Frank Rosquin"
+relative_names  = true
