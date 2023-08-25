@@ -1,0 +1,1 @@
+# Opinionated traccar exporter, for my own use
